@@ -18,3 +18,6 @@ aws s3api put-bucket-policy --bucket cdo-c2.8-167029074152-bucket --policy '{
 ## Screenshots
 #### Policy updated
 <img width="1588" alt="image" src="https://github.com/user-attachments/assets/54429e92-7145-4ec0-8c34-3ad3626534ed">
+
+## Access the bucket object [https://cdo-c2.8-167029074152-bucket.s3.amazonaws.com/index.html](https://cdo-c2.8-167029074152-bucket.s3.amazonaws.com/index.html)
+<img width="1246" alt="image" src="https://github.com/user-attachments/assets/9ad6b16e-f935-4cfb-ad4d-23ff1979e063">

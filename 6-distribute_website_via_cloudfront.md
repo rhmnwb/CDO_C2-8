@@ -1,4 +1,4 @@
-<img width="1210" alt="image" src="https://github.com/user-attachments/assets/608addbf-acd9-44d4-b529-cb01c342c5c5"># Distribute Website via CloudFront
+# Distribute Website via CloudFront
 ## Screenshots
 #### Distribution created
 <img width="1593" alt="image" src="https://github.com/user-attachments/assets/5f14e593-a0dd-4220-8b14-c96a82884813">
